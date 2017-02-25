@@ -2,17 +2,6 @@
 external internal clock
 
 
-//   ______      _                        _   _____       _                        _    _____ _            _    
-//  |  ____|    | |                      | | |_   _|     | |                      | |  / ____| |          | |   
-//  | |__  __  __ |_ ___ _ __ _ __   __ _| |   | |  _ __ | |_ ___ _ __ _ __   __ _| | | |    | | ___   ___| | __
-//  |  __| \ \/ / __/ _ \ '__| '_ \ / _` | |   | | | '_ \| __/ _ \ '__| '_ \ / _` | | | |    | |/ _ \ / __| |/ /
-//  | |____ >  <| |_  __/ |  | | | | (_| | |  _| |_| | | | |_  __/ |  | | | | (_| | | | |____| | (_) | (__|   < 
-//  |______/_/\_\\__\___|_|  |_| |_|\__,_|_| |_____|_| |_|\__\___|_|  |_| |_|\__,_|_|  \_____|_|\___/ \___|_|\_\
-
-// By Elgin-Skye McLaren 
-// IAT 800
-// Sept 22, 2016
-
 /*** README: The External Internal Clock requires the processing.sound library. To install, please click Sketch -> Import Library -> Add Library.  
  Search for "processing.sound", the author is "The Processing Foundation". If you do not wish to install the sound library, please simply comment out
  the 3  sections of code labelled "Audio Code"***/
